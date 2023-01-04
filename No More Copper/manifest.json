@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Get out of here copper!",
+        "name": "No More Copper",
+        "uuid": "02cbf82d-83b5-4889-bd13-651f05d6b93f",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 19, 50 ]
+    },
+    "modules": [
+        {
+            "description": "No More Copper",
+            "type": "resources",
+            "uuid": "4796d8e5-5806-4127-b19d-40436067392e",
+            "version": [0, 0, 1]
+        }
+    ]
+}
