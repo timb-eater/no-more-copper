@@ -18,12 +18,12 @@
     "subpacks": [
         {
             "folder_name": "dont",
-            "name": "Don't Replace Stone and Deepslate Textures with default ones"
+            "name": "Don't Replace Stone and Deepslate Textures with default ones",
             "memory_tier": 0
         },
         {
             "folder_name": "do",
-            "name": "Replace Stone and Deepslate Textures with default ones"
+            "name": "Replace Stone and Deepslate Textures with default ones",
             "memory_tier": 0
         }
     ]
