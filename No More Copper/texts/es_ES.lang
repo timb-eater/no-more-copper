@@ -1,2 +1,5 @@
 ﻿item.copper_ingot.name=Basura
-item.raw_copper.name=Cobre bruto
+item.raw_copper.name=Basura bruto
+tile.copper_ore.name=Minerales de basura
+tile.deepslate_copper_ore.name=Mineral de basura de pizarra abismal
+tile.raw_copper_block.name=Bloque de basura bruto

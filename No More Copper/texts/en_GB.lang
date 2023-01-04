@@ -1,2 +1,5 @@
 ﻿item.copper_ingot.name=Rubbish
 item.raw_copper.name=Raw Rubbish
+tile.copper_ore.name=Rubbish Ore
+tile.deepslate_copper_ore.name=Deepslate Rubbish Ore
+tile.raw_copper_block.name=Block of Raw Garbage
