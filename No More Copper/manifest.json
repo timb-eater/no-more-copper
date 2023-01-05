@@ -19,7 +19,7 @@
         {
             "folder_name": "dont",
             "name": "Don't Replace Stone and Deepslate Textures with default ones",
-            "memory_tier": 0
+            "memory_tier": 1
         },
         {
             "folder_name": "do",
