@@ -1,0 +1,14 @@
+{
+    "num_mip_levels" : 4,
+    "padding" : 8,
+    "resource_pack_name" : "vanilla",
+    "texture_data" : {
+        "deepslate_copper_ore" : {
+            "textures" : "textures/blocks/deepslate/deepslate"
+         },
+         "copper_ore" : {
+            "textures" : "textures/blocks/stone"
+         }
+    },
+    "texture_name" : "atlas.terrain"
+ }
