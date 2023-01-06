@@ -1,0 +1,14 @@
+{
+    "copper_ore" : {
+        "isotropic" : false,
+        "sound" : "stone",
+        "textures" : "copper_ore",
+        "carried_textures" : "raw_copper_block"
+     },
+     "deepslate_copper_ore" : {
+        "isotropic" : false,
+        "sound" : "deepslate",
+        "textures" : "deepslate_copper_ore",
+        "carried_textures" : "raw_copper_block"
+     },
+}
